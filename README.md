@@ -21,4 +21,4 @@ However, released codes related to our contributions are included in the src fol
 
 Codes are based on the [fastpitch 1.1 repository](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch) and could be reproducible with proper integration of that repo and our source.
 
-Since RWEN needs text processing by phonemes, we need to take this into account. For example, for the fastpitch 1.1 repository, use english_cleaners_v3 function from src/common/cleaners.py and english_phonemized from src/common/symbols.py.
+Since RWEN-TTS(Fastpitch w/ AL) needs text processing by phonemes, we need to take this into account. For example, for the fastpitch 1.1 repository, use english_cleaners_v3 function from src/common/cleaners.py and english_phonemized from src/common/symbols.py.
