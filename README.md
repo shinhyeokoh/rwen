@@ -15,7 +15,7 @@
 ## Our Codes
 Due to the policy of our previous company, our codes are partially released.
 
-We have only released core codes of RWEN and not full codes contains with the TTS Model (e.g. fastpitch).
+We have only released core codes of RWEN except the TTS Model (e.g. fastpitch).
 
 However, released codes related to our contributions are included in the src folder and includes the dataset function, collate function, and model class for easy integration into the TTS Model.
 
