@@ -1,7 +1,7 @@
 # RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis
 
 ![](overall_architecture.png)
-- Implements the model described in the following paper "RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis" (AAAI 2023).
+- Implements the model described in the following paper "[RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis](https://arxiv.org/abs/2212.07939)" (AAAI 2023).
 
 ## An example of SRE (gif)
 
